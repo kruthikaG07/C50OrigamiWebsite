@@ -1,0 +1,73 @@
+ 
+.header{
+    font-family: Calibri;
+    background-color:rgb(63, 34, 22);
+    display: flex;
+  
+} 
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    font-family: Calibri;
+    color: white;
+}
+
+body{
+    background-color:rgb(200, 169, 150)
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap; 
+}
+
+/* .grid img{
+    border: 2px solid black;
+    border-radius: 50px
+} */
+
+.origami{
+    border-radius: 20px;
+    background-color: white;
+    width:310px 
+}
+
+
+h1 {
+    color: rgb(63, 34, 22)
+}
+h1{
+    font-family: Calibri
+}
+h1 {text-align: center;}
+
+
+h2{
+    font-family: Calibri
+}
+h2{
+    text-align: center;
+}
+
+
+h3{
+    font-family: Calibri
+}
+h3{
+    color: rgb(63, 34, 22)
+}
+
+
+li {
+    font-family: Calibri
+}
+
+
+p {
+    font-family: Calibri
+}
+
+i{
+    text-align: center;
+}
